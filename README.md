@@ -1,4 +1,4 @@
-## Getting Started
+## Sobre o Projeto
 
 Atividade 1 de Estrutura Sequencial 
 
@@ -13,6 +13,6 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Enuncia do exercicio 
+## Enunciado do exercicio 
 
 Faça um Programa que mostre a mensagem "Alo mundo" na tela.
